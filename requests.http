@@ -1,0 +1,8 @@
+### Post 'Hello!"
+POST http://localhost:8080/
+Content-Type: application/json {
+"text": "Hi!"
+}
+
+### Get request
+GET http://localhost:8080/
